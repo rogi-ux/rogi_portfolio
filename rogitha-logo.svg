@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Rogitha G logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#27d7c7"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="144" height="144" rx="42" fill="#0b1324" stroke="url(#g)" stroke-width="5"/>
+  <path d="M43 48h41c18 0 29 10 29 25 0 11-6 19-17 23l20 26H98L80 101H59v21H43V48zm16 15v24h23c9 0 15-4 15-12s-6-12-15-12H59z" fill="white"/>
+  <path d="M91 101h19v21H91z" fill="url(#g)"/>
+</svg>
